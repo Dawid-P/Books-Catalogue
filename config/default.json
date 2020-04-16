@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://dawo115:hfP17lqtWRJvAMCG@dawidmedia-cn9iy.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
+}
